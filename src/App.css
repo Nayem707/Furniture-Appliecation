@@ -1,3 +1,25 @@
-.nav-bar {
-  @apply text-gray-500;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .nav-bar {
+    @apply flex items-center justify-between border p-5 px-20;
+  }
+
+  .logo {
+    @apply font-bebas text-[40px] font-bold uppercase;
+  }
+
+  .nav-links {
+    @apply flex gap-10;
+  }
+
+  /* .nav-item {
+  @apply text-2xl;
+} */
+
+  .nav-link {
+    @apply text-xl font-normal uppercase;
+  }
 }

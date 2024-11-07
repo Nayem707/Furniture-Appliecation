@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        mochiy: ['Mochiy Pop One', 'sans-serif'],
+        mochiy: ['Mochiy Pop One', 'serif'],
         roboto: ['Roboto', 'sans-serif'],
         poppins: ['Poppins', 'sans-serif'],
         bebas: ['Bebas Neue', 'serif'],
