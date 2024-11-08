@@ -5,6 +5,11 @@
 @tailwind utilities;
 
 @layer base {
+  * {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
   /* Set global font family and default font size */
   :root {
     font-family: "Mochiy Pop One", "Inter", system-ui, Avenir, Helvetica, Arial,
@@ -15,7 +20,7 @@
 
     color-scheme: light dark;
     color: rgba(255, 255, 255, 0.87);
-    background-color: #242424;
+    background-color: white;
 
     font-synthesis: none;
     text-rendering: optimizeLegibility;

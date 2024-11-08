@@ -37,12 +37,12 @@ const NavStyle = () => {
         <div className="relative">
           <div className="absolute left-5 top-5 h-[9.72px] w-[9.72px] rounded-full bg-green-500 shadow" />
           <img
-            src="/public/images/cart.png"
+            src="/images/cart.png"
             alt="cart"
             className="h-[29.15px] w-[29.15px]"
           />
         </div>
-        <div className="inline-flex h-[50.53px] w-[137.98px] items-center justify-center gap-[9.72px] rounded-md border-2 px-[39.84px] py-[10.69px]">
+        <div className="nav-login-btn">
           <button className="font-['Mochiy Pop One'] text-xl font-normal uppercase">
             Login
           </button>
