@@ -9,11 +9,11 @@ const SectionTeen = () => {
       <div className="grid grid-cols-1 gap-24 p-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5">
         {/* Product Card 1 */}
 
-        <img src="/public/images/brand_logo/image 4.png" alt="" />
-        <img src="/public/images/brand_logo/image 5.png" alt="" />
-        <img src="/public/images/brand_logo/image 6.png" alt="" />
-        <img src="/public/images/brand_logo/image 7.png" alt="" />
-        <img src="/public/images/brand_logo/image 8.png" alt="" />
+        <img src="/images/brand_logo/image 4.png" alt="" />
+        <img src="/images/brand_logo/image 5.png" alt="" />
+        <img src="/images/brand_logo/image 6.png" alt="" />
+        <img src="/images/brand_logo/image 7.png" alt="" />
+        <img src="/images/brand_logo/image 8.png" alt="" />
 
         {/* Repeat as needed for additional products */}
       </div>

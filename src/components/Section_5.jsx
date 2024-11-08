@@ -16,7 +16,7 @@ const SectionFive = () => {
             <div>
               <img
                 className="h-80 w-80 rounded-lg object-cover"
-                src="/public/images/s-2-1.png"
+                src="/images/s-2-1.png"
                 alt="Product 1"
               />
             </div>
@@ -37,7 +37,7 @@ const SectionFive = () => {
             <div>
               <img
                 className="h-80 w-80 rounded-lg object-cover"
-                src="/public/images/s-2-1.png"
+                src="/images/s-2-1.png"
                 alt="Product 1"
               />
             </div>
@@ -56,7 +56,7 @@ const SectionFive = () => {
         <div>
           <img
             className="w-full rounded-lg object-cover"
-            src="/public/images/sufa.png"
+            src="/images/sufa.png"
             alt="Product 1"
           />
         </div>
@@ -69,7 +69,7 @@ const SectionFive = () => {
             <div>
               <img
                 className="h-80 w-80 rounded-lg object-cover"
-                src="/public/images/s-2-1.png"
+                src="/images/s-2-1.png"
                 alt="Product 1"
               />
             </div>
@@ -90,7 +90,7 @@ const SectionFive = () => {
             <div>
               <img
                 className="h-80 w-80 rounded-lg object-cover"
-                src="/public/images/s-2-1.png"
+                src="/images/s-2-1.png"
                 alt="Product 1"
               />
             </div>

@@ -23,7 +23,7 @@ const SectionEight = () => {
               <div className="w-full rounded-lg">
                 <img
                   className="h-64 w-full object-fill"
-                  src="/public/images/s-2-1.png"
+                  src="/images/s-2-1.png"
                   alt="Product 1"
                 />
               </div>

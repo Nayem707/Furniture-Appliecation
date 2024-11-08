@@ -39,10 +39,10 @@ const SectionFour = () => {
           </div>
         </div>
         <div className="absolute right-[350px] top-20">
-          <img className="w-full" src="/public/images/table.png" alt="" />
+          <img className="w-full" src="/images/table.png" alt="" />
         </div>
         <div className="absolute right-0 top-56">
-          <img className="w-96" src="/public/images/chair.png" alt="" />
+          <img className="w-96" src="/images/chair.png" alt="" />
         </div>
       </div>
       <div className="h-28 w-full bg-stone-300" />
