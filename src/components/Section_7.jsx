@@ -7,7 +7,7 @@ const SectionSeven = () => {
         <div className="h-screen">
           <img
             className="w-full object-contain"
-            src="/public/images/img-3.png"
+            src="/images/img-3.png"
             alt=""
           />
         </div>

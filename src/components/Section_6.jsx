@@ -26,7 +26,7 @@ const SectionSix = () => {
       <div className="w-full">
         <img
           className="h-96 w-full object-cover"
-          src="/public/images/house.jpg"
+          src="/images/house.jpg"
           alt=""
         />
       </div>

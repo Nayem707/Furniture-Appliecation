@@ -65,7 +65,7 @@ const HeroSection = () => {
           </article>
           <article className="relative h-[260px] w-[372px] rounded-lg bg-white shadow-lg">
             <header className="absolute -top-20 left-20">
-              <img src="/public/images/chair/fashion.png" alt="" />
+              <img src="/images/chair/fashion.png" alt="" />
             </header>
             <main className="absolute left-28 top-32">
               <div className="text-center text-xl font-normal text-black">
@@ -78,7 +78,7 @@ const HeroSection = () => {
           </article>
           <article className="relative h-[260px] w-[372px] rounded-lg bg-white shadow-lg">
             <header className="absolute -top-32 left-20">
-              <img src="/public/images/chair/kisspng-c.png" alt="" />
+              <img src="/images/chair/kisspng-c.png" alt="" />
             </header>
             <main className="absolute left-28 top-32">
               <div className="text-center text-xl font-normal text-black">
